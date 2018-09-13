@@ -1,0 +1,171 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/11/2017 08:11
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-zeppelin:before { content: "\f100"; }
+.flaticon-002-yatch:before { content: "\f101"; }
+.flaticon-003-wheel-2:before { content: "\f102"; }
+.flaticon-004-chassis:before { content: "\f103"; }
+.flaticon-005-bicycle-2:before { content: "\f104"; }
+.flaticon-006-car-11:before { content: "\f105"; }
+.flaticon-007-vespa:before { content: "\f106"; }
+.flaticon-008-car-10:before { content: "\f107"; }
+.flaticon-009-lifter-1:before { content: "\f108"; }
+.flaticon-010-van-1:before { content: "\f109"; }
+.flaticon-011-tyre-2:before { content: "\f10a"; }
+.flaticon-012-tyre-1:before { content: "\f10b"; }
+.flaticon-013-tyre:before { content: "\f10c"; }
+.flaticon-014-tram-4:before { content: "\f10d"; }
+.flaticon-015-tram-3:before { content: "\f10e"; }
+.flaticon-016-tram-2:before { content: "\f10f"; }
+.flaticon-017-tractor:before { content: "\f110"; }
+.flaticon-018-trolleybus:before { content: "\f111"; }
+.flaticon-019-tram-1:before { content: "\f112"; }
+.flaticon-020-tank-1:before { content: "\f113"; }
+.flaticon-021-caravan-1:before { content: "\f114"; }
+.flaticon-022-traffic-light:before { content: "\f115"; }
+.flaticon-023-car-9:before { content: "\f116"; }
+.flaticon-024-lifeboat:before { content: "\f117"; }
+.flaticon-025-tank:before { content: "\f118"; }
+.flaticon-026-pick-up-truck:before { content: "\f119"; }
+.flaticon-027-car-8:before { content: "\f11a"; }
+.flaticon-028-train-4:before { content: "\f11b"; }
+.flaticon-029-subway:before { content: "\f11c"; }
+.flaticon-030-submarine-2:before { content: "\f11d"; }
+.flaticon-031-steering-wheel:before { content: "\f11e"; }
+.flaticon-032-car-7:before { content: "\f11f"; }
+.flaticon-033-bicycle-1:before { content: "\f120"; }
+.flaticon-034-car-6:before { content: "\f121"; }
+.flaticon-035-speedometer-7:before { content: "\f122"; }
+.flaticon-036-speedometer-6:before { content: "\f123"; }
+.flaticon-037-speedometer-5:before { content: "\f124"; }
+.flaticon-038-speedometer-4:before { content: "\f125"; }
+.flaticon-039-speedometer-3:before { content: "\f126"; }
+.flaticon-040-speedometer-2:before { content: "\f127"; }
+.flaticon-041-speedometer-1:before { content: "\f128"; }
+.flaticon-042-speedometer:before { content: "\f129"; }
+.flaticon-043-spark-plug:before { content: "\f12a"; }
+.flaticon-044-ufo:before { content: "\f12b"; }
+.flaticon-045-skateboard:before { content: "\f12c"; }
+.flaticon-046-kick-scooter:before { content: "\f12d"; }
+.flaticon-047-train-3:before { content: "\f12e"; }
+.flaticon-048-shock-absorber:before { content: "\f12f"; }
+.flaticon-049-scooter:before { content: "\f130"; }
+.flaticon-050-sailboat:before { content: "\f131"; }
+.flaticon-051-rocket:before { content: "\f132"; }
+.flaticon-052-road:before { content: "\f133"; }
+.flaticon-053-road-roller:before { content: "\f134"; }
+.flaticon-054-repair-tools:before { content: "\f135"; }
+.flaticon-055-train-2:before { content: "\f136"; }
+.flaticon-056-bus-3:before { content: "\f137"; }
+.flaticon-057-radiator:before { content: "\f138"; }
+.flaticon-058-gauge:before { content: "\f139"; }
+.flaticon-059-piston:before { content: "\f13a"; }
+.flaticon-060-sprayer:before { content: "\f13b"; }
+.flaticon-061-forklift:before { content: "\f13c"; }
+.flaticon-062-oil-3:before { content: "\f13d"; }
+.flaticon-063-4x4:before { content: "\f13e"; }
+.flaticon-064-motorbike-1:before { content: "\f13f"; }
+.flaticon-065-concrete-mixer:before { content: "\f140"; }
+.flaticon-066-rearview-mirror:before { content: "\f141"; }
+.flaticon-067-van:before { content: "\f142"; }
+.flaticon-068-delivery-truck:before { content: "\f143"; }
+.flaticon-069-truck:before { content: "\f144"; }
+.flaticon-070-voltmeter:before { content: "\f145"; }
+.flaticon-071-cart:before { content: "\f146"; }
+.flaticon-072-tram:before { content: "\f147"; }
+.flaticon-073-submarine-1:before { content: "\f148"; }
+.flaticon-074-bulldozer-2:before { content: "\f149"; }
+.flaticon-075-bulldozer-1:before { content: "\f14a"; }
+.flaticon-076-jet-ski:before { content: "\f14b"; }
+.flaticon-077-key:before { content: "\f14c"; }
+.flaticon-078-hot-air-balloon:before { content: "\f14d"; }
+.flaticon-079-horn:before { content: "\f14e"; }
+.flaticon-080-submarine:before { content: "\f14f"; }
+.flaticon-081-bus-2:before { content: "\f150"; }
+.flaticon-082-engine:before { content: "\f151"; }
+.flaticon-083-crane-1:before { content: "\f152"; }
+.flaticon-084-gearshift-2:before { content: "\f153"; }
+.flaticon-085-oil-2:before { content: "\f154"; }
+.flaticon-086-gasoline:before { content: "\f155"; }
+.flaticon-087-dumper:before { content: "\f156"; }
+.flaticon-088-garage:before { content: "\f157"; }
+.flaticon-089-gas-station:before { content: "\f158"; }
+.flaticon-090-wheel-1:before { content: "\f159"; }
+.flaticon-091-car-5:before { content: "\f15a"; }
+.flaticon-092-exhaust-pipe:before { content: "\f15b"; }
+.flaticon-093-gearshift-1:before { content: "\f15c"; }
+.flaticon-094-gearshift:before { content: "\f15d"; }
+.flaticon-095-excavator:before { content: "\f15e"; }
+.flaticon-096-oil-1:before { content: "\f15f"; }
+.flaticon-097-cogwheel:before { content: "\f160"; }
+.flaticon-098-electric-car:before { content: "\f161"; }
+.flaticon-099-seat:before { content: "\f162"; }
+.flaticon-100-double-decker-bus-1:before { content: "\f163"; }
+.flaticon-101-double-decker-bus:before { content: "\f164"; }
+.flaticon-102-derrick:before { content: "\f165"; }
+.flaticon-103-cruise:before { content: "\f166"; }
+.flaticon-104-crane:before { content: "\f167"; }
+.flaticon-105-convertible-1:before { content: "\f168"; }
+.flaticon-106-convertible:before { content: "\f169"; }
+.flaticon-107-oil:before { content: "\f16a"; }
+.flaticon-108-jumper:before { content: "\f16b"; }
+.flaticon-109-train-1:before { content: "\f16c"; }
+.flaticon-110-ship-1:before { content: "\f16d"; }
+.flaticon-111-ship:before { content: "\f16e"; }
+.flaticon-112-helicopter:before { content: "\f16f"; }
+.flaticon-113-caravan:before { content: "\f170"; }
+.flaticon-114-car-4:before { content: "\f171"; }
+.flaticon-115-car-breakdown:before { content: "\f172"; }
+.flaticon-116-windshield:before { content: "\f173"; }
+.flaticon-117-car-wash-1:before { content: "\f174"; }
+.flaticon-118-airbag:before { content: "\f175"; }
+.flaticon-119-car-3:before { content: "\f176"; }
+.flaticon-120-battery:before { content: "\f177"; }
+.flaticon-121-car-2:before { content: "\f178"; }
+.flaticon-122-car-1:before { content: "\f179"; }
+.flaticon-123-car:before { content: "\f17a"; }
+.flaticon-124-cable-car-cabin:before { content: "\f17b"; }
+.flaticon-125-bus-1:before { content: "\f17c"; }
+.flaticon-126-bus:before { content: "\f17d"; }
+.flaticon-127-car-wash:before { content: "\f17e"; }
+.flaticon-128-bulldozer:before { content: "\f17f"; }
+.flaticon-129-train:before { content: "\f180"; }
+.flaticon-130-satellite:before { content: "\f181"; }
+.flaticon-131-brake-disc:before { content: "\f182"; }
+.flaticon-132-bicycle:before { content: "\f183"; }
+.flaticon-133-motorbike:before { content: "\f184"; }
+.flaticon-134-lifter:before { content: "\f185"; }
+.flaticon-135-wheel:before { content: "\f186"; }
+.flaticon-136-airplane:before { content: "\f187"; }
+.flaticon-137-departures:before { content: "\f188"; }
+.flaticon-138-arrivals:before { content: "\f189"; }
+.flaticon-139-air-filter:before { content: "\f18a"; }
+.flaticon-140-fire-extinguisher:before { content: "\f18b"; }
